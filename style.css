@@ -11,6 +11,11 @@ p {
 
 .nav {
 background-color: lightyellow;
-margin-left: 5%;
 width: 100%;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  float: left;
 }
