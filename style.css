@@ -4,6 +4,7 @@ p {
 
 #messageArea {
   border: 2px solid black;
+  border-radius: 5%;
   margin-left: 5%;
   width: 30%;
 
