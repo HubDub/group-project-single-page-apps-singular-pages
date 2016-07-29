@@ -13,3 +13,12 @@ var chatty = (function () {
         }
     }
 }())
+
+
+var marianWorley = {
+  firstname: "marian",
+  lastName: "worley",
+  dob: 1952
+}
+
+marianWorley.firstname
