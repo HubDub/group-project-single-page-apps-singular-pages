@@ -7,6 +7,7 @@ p {
   margin-left: 5%;
   margin-top: 10px;
   width:30%;
+  overflow: auto;
 }
 
 .nav {
