@@ -6,7 +6,6 @@ p {
   border: 2px solid black;
   margin: 10px auto 0 auto;
   width:30%;
-  float: right;
 
 }
 
@@ -15,7 +14,6 @@ background-color: lightyellow;
 width: 100%;
 margin-left: 5%;
 padding-bottom: 1em;
-float: left;
 }
 
 img {
